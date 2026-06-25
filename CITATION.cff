@@ -7,7 +7,7 @@ authors:
     orcid: https://orcid.org/0000-0002-9870-5513
     affiliation: Universitat de Barcelona
 version: 1.0.0
-doi:
-date-released: 2026-04-29
+doi: https://hdl.handle.net/10803/697571
+date-released: 2026-06-25
 license: Creative Commons
-repository-code: https://github.com/MarcSadurniParera/Project-xAire
+repository-code: https://github.com/MarcSadurniParera/CollectiveRiskGame
